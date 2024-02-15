@@ -17,7 +17,7 @@
             "required": true,
             "value": "cyber-x@;;;tYMWUZpA#YLNqDebLdVRJNgncWQYfghtMH9WnzNAlYGgMwJpp4EM"
 "
-        },cyber-x
+        },
         "HEROKU_API_KEY": {
             "description":" ",
             "required": true,
