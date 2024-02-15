@@ -12,23 +12,24 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "cyber-x@;;;tYMWUZpA#YLNqDebLdVRJNgncWQYfghtMH9WnzNAlYGgMwJpp4EM
+            "description": "",
 ,
             "required": true,
-            "value": ""
+            "value": "cyber-x@;;;tYMWUZpA#YLNqDebLdVRJNgncWQYfghtMH9WnzNAlYGgMwJpp4EM"
+"
         },cyber-x
         "HEROKU_API_KEY": {
-            "description":" 1112690d-8f9e-4c2c-a8fa-c23eec3f3497",
+            "description":" ",
             "required": true,
             "value": "1112690d-8f9e-4c2c-a8fa-c23eec3f3497"
         },
         "HEROKU_APP_NAME": {
             "description": "",
             "required": true,
-            "value": "cyber-x"
+            "value": "cyber-x456"
         },
         "WORK_TYPE": {
-            "description": "puplic",
+            "description": "",
             "required": true,
             "value": "puplic"
         }
